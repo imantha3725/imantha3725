@@ -39,7 +39,7 @@ class Imantha:
 
 | Project | Description | Stack |
 |---|---|---|
-| [**✈️ Travio**](#) 🚧 | AI-driven travel planner — smart itineraries & recommendations | `In Progress` |
+| [**✈️ Travio**](#) 🚧 | AI-driven travel planner — smart itineraries & recommendations | `React Native and Expo` |
 | [**📱 Traveller**](https://github.com/imantha3725/Traveller) | Android travel companion app | `Kotlin` |
 | [**🏥 Clinic Management Web App**](https://github.com/imantha3725/clinic-management-web-app) | Full-featured clinic management system | `JavaScript` |
 | [**📚 Library Management System**](https://github.com/imantha3725/EAD_CW-Library-Management-System) | Enterprise-grade library management system | `TypeScript` |
