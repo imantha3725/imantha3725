@@ -1,43 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Imantha%20👋&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20·%20AI/ML%20Engineer%20·%20UI/UX%20Designer&descAlignY=65&descSize=16&descColor=cfd8e3&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:051829,40:0a3d5c,100:00bcd4&height=230&section=header&text=Imantha%20Sandirigama&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20·%20AI/ML%20Engineer%20·%20UI/UX%20Designer&descAlignY=56&descSize=15&descColor=7dd3fc&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=00BCD4&center=true&vCenter=true&width=650&lines=Turning+ideas+into+intelligent+products+%F0%9F%92%A1;Currently+building+Travio+%E2%9C%88%EF%B8%8F;Full+Stack+%2B+AI%2FML+%2B+Design+%F0%9F%8E%A8;Open+to+Work+%F0%9F%9A%80" />
 
 <br/>
 
-<a href="https://imanthasandirigama.me"><img src="https://img.shields.io/badge/PORTFOLIO-imanthasandirigama.me-0d1117?style=for-the-badge&labelColor=00bcd4&color=0d1117" /></a>
-<a href="https://www.linkedin.com/in/imantha-sandirigama-6554aa290/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0d1117?style=for-the-badge&labelColor=0077B5&color=0d1117" /></a>
-<a href="mailto:hello@imanthasandirigama.me"><img src="https://img.shields.io/badge/EMAIL-Say%20Hi-0d1117?style=for-the-badge&labelColor=00bcd4&color=0d1117" /></a>
+<a href="https://imanthasandirigama.me"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00bcd4?style=for-the-badge&labelColor=051829" /></a>
+<a href="https://www.linkedin.com/in/imantha-sandirigama-6554aa290/"><img src="https://img.shields.io/badge/LINKEDIN-00bcd4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=051829" /></a>
+<a href="https://github.com/imantha3725/Travio"><img src="https://img.shields.io/badge/✈️_TRAVIO-00bcd4?style=for-the-badge&labelColor=051829" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=00BCD4&center=true&vCenter=true&width=600&lines=Building+Travio+%E2%9C%88%EF%B8%8F+an+AI+Travel+Planner;Turning+ideas+into+intelligent+products;Full+Stack+%2B+AI%2FML+%2B+Design;Open+to+Work+%F0%9F%9A%80" />
+![Profile Views](https://komarev.com/ghpvc/?username=imantha3725&style=for-the-badge&color=00bcd4&labelColor=051829&label=PROFILE+VIEWS)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/imantha3725?style=for-the-badge&color=00bcd4&labelColor=051829&label=FOLLOWERS)
 
 </div>
 
 <br/>
 
-## ⟶ About
+## 🚀 What I'm Up To
 
-I build across the full product stack — architecting backends, training ML models, and designing the interfaces that tie it all together. Based in Sri Lanka 🇱🇰, currently focused on **Travio**, an AI-driven travel planner.
+```yaml
+current_focus: "Building Travio — an AI-driven travel planner"
+learning:      ["LangChain", "LLM Engineering", "Advanced UI/UX"]
+open_to:       "Full-stack, AI/ML & freelance opportunities"
+fun_fact:      "I design the UI before I write a single line of backend code"
+```
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-**What I'm doing**
-- 🔭 Building `Travio` — AI travel planner with smart itineraries & AR explorer
-- 🌱 Deepening skills in `LangChain` & LLM engineering
-- 💡 Merging intelligent systems with clean, usable design
-- 🚀 Open to full-stack, AI/ML, and freelance opportunities
+### 🧠
+**AI/ML Engineer**
+<br/>
+Training models, wiring up LLMs, and shipping them into real products.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-**Quick facts**
-- 🎓 Full Stack Developer & AI/ML Engineer
-- 🎨 UI/UX design background
-- 📍 Sri Lanka
-- ⚡ Fluent across web, mobile & backend
+### 💻
+**Full Stack Dev**
+<br/>
+Comfortable end-to-end — from Postgres schemas to pixel-perfect frontends.
+
+</td>
+<td width="33%" align="center">
+
+### 🎨
+**UI/UX Designer**
+<br/>
+Every project starts in Figma before it ever touches code.
 
 </td>
 </tr>
@@ -45,82 +60,64 @@ I build across the full product stack — architecting backends, training ML mod
 
 <br/>
 
-## ⟶ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,kotlin,cs,php&theme=dark" />
-
-**Frontend & Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel&theme=dark" />
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-
-**Databases & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,aws&theme=dark" />
-
-**Design & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,ps,ae,git,docker,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,kotlin,cs,php,react,nextjs,tailwind,bootstrap,nodejs,express,spring,laravel,pytorch,tensorflow,sklearn,postgres,mysql,mongodb,supabase,firebase,aws,figma,ps,ae,git,docker,githubactions&theme=dark&perline=10" />
 
 </div>
 
 <br/>
 
-## ⟶ Featured Projects
+## ⚡ Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ Travio
-AI-driven travel planner with smart itineraries, an AR explorer, and a memories diary.
-
+**✈️ Travio** — *flagship project*
+<br/>
+AI-powered travel planner with smart itineraries, an AR explorer, and a memories diary.
+<br/>
 `React Native` `Expo` `Supabase`
-
-[![Download](https://img.shields.io/badge/Download_APK-00BCD4?style=flat-square&logo=android&logoColor=white)](https://github.com/imantha3725/Travio/releases/latest)
+<br/>
+[![Download](https://img.shields.io/badge/📲_Download_APK-00bcd4?style=flat-square&labelColor=051829)](https://github.com/imantha3725/Travio/releases/latest)
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Traveller
-Android travel companion app built natively for a fast, focused experience.
-
+**📱 Traveller**
+<br/>
+Native Android travel companion app, built for speed and simplicity.
+<br/>
 `Kotlin`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imantha3725/Traveller)
+<br/>
+[![Repo](https://img.shields.io/badge/⭐_View_Repo-00bcd4?style=flat-square&labelColor=051829)](https://github.com/imantha3725/Traveller)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Clinic Management
-Full-featured clinic management system for scheduling, records, and staff workflows.
-
+**🏥 Clinic Management**
+<br/>
+Full-featured system for scheduling, patient records, and staff workflows.
+<br/>
 `JavaScript` `React`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imantha3725/clinic-management-web-app)
+<br/>
+[![Repo](https://img.shields.io/badge/⭐_View_Repo-00bcd4?style=flat-square&labelColor=051829)](https://github.com/imantha3725/clinic-management-web-app)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 Library Management
-Enterprise-grade library system with clean architecture and typed codebase.
-
+**📚 Library Management**
+<br/>
+Enterprise-grade system with a clean, fully typed architecture.
+<br/>
 `TypeScript`
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imantha3725/EAD_CW-Library-Management-System)
+<br/>
+[![Repo](https://img.shields.io/badge/⭐_View_Repo-00bcd4?style=flat-square&labelColor=051829)](https://github.com/imantha3725/EAD_CW-Library-Management-System)
 
 </td>
 </tr>
@@ -128,41 +125,49 @@ Enterprise-grade library system with clean architecture and typed codebase.
 
 <div align="center">
 
-**⚙️ Laravel CRUD** — Full CRUD app with clean MVC architecture · `PHP` `Laravel` · [View Repo](https://github.com/imantha3725/Laravel-Crud-App)
+**⚙️ Laravel CRUD** — Clean MVC CRUD app · `PHP` `Laravel` · [View Repo →](https://github.com/imantha3725/Laravel-Crud-App)
 
 <br/>
 
-🌐 **See all my work with live demos at [imanthasandirigama.me](https://imanthasandirigama.me)**
+🌐 **More work + live demos at [imanthasandirigama.me](https://imanthasandirigama.me)**
 
 </div>
 
 <br/>
 
-## ⟶ Skill Proficiency
+## 📊 Skill Radar
 
 <div align="center">
 
-| | |
-|---|---|
-| Frontend Development | ▓▓▓▓▓▓▓▓▓░ 90% |
-| UI / UX Design | ▓▓▓▓▓▓▓▓░░ 85% |
-| Backend Development | ▓▓▓▓▓▓▓░░░ 75% |
-| Mobile Development | ▓▓▓▓▓▓░░░░ 65% |
-| AI / ML Engineering | ▓▓▓▓▓▓░░░░ 65% |
-| Cloud & DevOps | ▓▓▓▓▓░░░░░ 50% |
+| Skill | Level |
+|:---|:---|
+| Frontend Development | `██████████████████░░` 90% |
+| UI / UX Design | `█████████████████░░░` 85% |
+| Backend Development | `███████████████░░░░░` 75% |
+| Mobile Development | `█████████████░░░░░░░` 65% |
+| AI / ML Engineering | `█████████████░░░░░░░` 65% |
+| Cloud & DevOps | `██████████░░░░░░░░░░` 50% |
 
 </div>
 
 <br/>
 
-## ⟶ GitHub Stats
+## 📈 The Numbers
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imantha3725&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00bcd4&icon_color=00bcd4&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imantha3725&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bcd4&text_color=ffffff&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imantha3725&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=051829&title_color=00bcd4&icon_color=00bcd4&text_color=7dd3fc&border_radius=10" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imantha3725&layout=compact&theme=tokyonight&hide_border=true&bg_color=051829&title_color=00bcd4&text_color=7dd3fc&langs_count=8&border_radius=10" height="175"/>
 
-<img src="https://streak-stats.demolab.com?user=imantha3725&theme=tokyonight&hide_border=true&background=0d1117&ring=00BCD4&fire=00BCD4&currStreakLabel=00BCD4&mode=daily" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imantha3725&theme=tokyonight&hide_border=true&background=051829&ring=00BCD4&fire=00BCD4&currStreakLabel=00BCD4&border_radius=10" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imantha3725&theme=react-dark&bg_color=051829&color=00bcd4&line=00bcd4&point=7dd3fc&hide_border=true&border_radius=10" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=imantha3725&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imantha3725/imantha3725/output/github-snake-dark.svg" />
@@ -176,13 +181,11 @@ Enterprise-grade library system with clean architecture and typed codebase.
 
 <div align="center">
 
-### Let's build something intelligent together.
+### 💬 Got an idea? Let's build it.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00BCD4?style=for-the-badge)](https://imanthasandirigama.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imantha-sandirigama-6554aa290/)
-
-<sub>![Profile Views](https://komarev.com/ghpvc/?username=imantha3725&style=flat-square&color=00bcd4&label=Profile+Views) &nbsp; ![Followers](https://img.shields.io/github/followers/imantha3725?style=flat-square&color=00bcd4&label=Followers)</sub>
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-00bcd4?style=for-the-badge&labelColor=051829)](https://imanthasandirigama.me)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-00bcd4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=051829)](https://www.linkedin.com/in/imantha-sandirigama-6554aa290/)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,11,6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bcd4,60:0a3d5c,100:051829&height=130&section=footer&animation=twinkling" width="100%"/>
