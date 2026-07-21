@@ -1,22 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:051829,40:0a3d5c,100:00bcd4&height=230&section=header&text=Imantha%20Sandirigama&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20·%20AI/ML%20Engineer%20·%20UI/UX%20Designer&descAlignY=56&descSize=15&descColor=7dd3fc&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=00BCD4&center=true&vCenter=true&width=650&lines=Turning+ideas+into+intelligent+products+%F0%9F%92%A1;Currently+building+Travio+%E2%9C%88%EF%B8%8F;Full+Stack+%2B+AI%2FML+%2B+Design+%F0%9F%8E%A8;Open+to+Work+%F0%9F%9A%80" />
-
-<br/>
-
-<a href="https://imanthasandirigama.me"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-00bcd4?style=for-the-badge&labelColor=051829" /></a>
-<a href="https://www.linkedin.com/in/imantha-sandirigama-6554aa290/"><img src="https://img.shields.io/badge/LINKEDIN-00bcd4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=051829" /></a>
-<a href="https://github.com/imantha3725/Travio"><img src="https://img.shields.io/badge/✈️_TRAVIO-00bcd4?style=for-the-badge&labelColor=051829" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=imantha3725&style=for-the-badge&color=00bcd4&labelColor=051829&label=PROFILE+VIEWS)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/imantha3725?style=for-the-badge&color=00bcd4&labelColor=051829&label=FOLLOWERS)
-
-</div>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:071a2e,100:00bcd4&height=220&section=header&text=Imantha%20Sandirigama&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20UI%2FUX%20Designer&descAlignY=57&descSize=15&descColor=7dd3fc&animation=fadeIn" />
