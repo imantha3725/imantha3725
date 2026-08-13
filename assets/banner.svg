@@ -1,0 +1,60 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#042f2e"/>
+      <stop offset="55%" stop-color="#0f4c4a"/>
+      <stop offset="100%" stop-color="#134e4a"/>
+    </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="90" cy="103" r="52"/>
+    </clipPath>
+    <linearGradient id="pillFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#134e4a" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0f766e" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect x="0" y="0" width="900" height="230" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="228" rx="17" fill="none" stroke="#2dd4bf" stroke-opacity="0.28" stroke-width="1.5"/>
+
+  <!-- avatar ring + image -->
+  <circle cx="90" cy="103" r="55" fill="none" stroke="#2dd4bf" stroke-opacity="0.55" stroke-width="2"/>
+  <circle cx="90" cy="103" r="52" fill="#0f4c4a"/>
+  <image href="https://github.com/imantha3725.png?size=200" x="38" y="51" width="104" height="104" clip-path="url(#avatarClip)"/>
+
+  <!-- handle -->
+  <text x="170" y="60" font-family="Consolas, 'Fira Code', monospace" font-size="15" fill="#5eead4">@imantha3725</text>
+
+  <!-- name -->
+  <text x="170" y="96" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#ccfbf1">Imantha Sandirigama</text>
+
+  <!-- role line -->
+  <text x="170" y="123" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5eead4">Software Engineer Intern · Full-Stack &amp; AI/ML Engineer · UI/UX Designer</text>
+
+  <!-- status pill top right -->
+  <rect x="700" y="34" width="166" height="30" rx="15" fill="url(#pillFill)" stroke="#2dd4bf" stroke-opacity="0.5" stroke-width="1"/>
+  <circle cx="720" cy="49" r="4" fill="#2dd4bf"/>
+  <text x="732" y="54" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#ccfbf1">Open to Work</text>
+
+  <!-- tagline -->
+  <text x="170" y="155" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9fd8d1">Building multipurpose systems for businesses — from backend to production-ready UI.</text>
+
+  <!-- tech pills row -->
+  <g font-family="Consolas, 'Fira Code', monospace" font-size="13" font-weight="600" fill="#ccfbf1">
+    <rect x="170" y="176" width="88" height="30" rx="15" fill="url(#pillFill)" stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="192" y="196">Laravel</text>
+
+    <rect x="266" y="176" width="76" height="30" rx="15" fill="url(#pillFill)" stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="288" y="196">React</text>
+
+    <rect x="350" y="176" width="104" height="30" rx="15" fill="url(#pillFill)" stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="368" y="196">PostgreSQL</text>
+
+    <rect x="462" y="176" width="98" height="30" rx="15" fill="url(#pillFill)" stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="481" y="196">TypeScript</text>
+
+    <rect x="568" y="176" width="88" height="30" rx="15" fill="url(#pillFill)" stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="1"/>
+    <text x="590" y="196">Node.js</text>
+  </g>
+</svg>
