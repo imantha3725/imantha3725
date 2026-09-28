@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="./assets/banner-v2.svg" width="100%" alt="Imantha Sandirigama, Software Engineer" />
+<img src="./assets/banner.svg" width="100%" alt="Imantha Sandirigama, Software Engineer" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-imanthasandirigama.me-0b0b10?style=flat-square&logo=googlechrome&logoColor=ff6b35)](https://imanthasandirigama.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0b0b10?style=flat-square&logo=linkedin&logoColor=ff6b35)](https://www.linkedin.com/in/imantha-sandirigama-6554aa290/)
-[![Email](https://img.shields.io/badge/Email-Contact-0b0b10?style=flat-square&logo=gmail&logoColor=ff6b35)](mailto:you@example.com)
-![Profile Views](https://komarev.com/ghpvc/?username=imantha3725&style=flat-square&color=0b0b10&label=Views)
+<a href="https://imanthasandirigama.me"><img src="./assets/btn-portfolio.svg" height="44" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/imantha-sandirigama-6554aa290/"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:you@example.com"><img src="./assets/btn-email.svg" height="44" alt="Email" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=imantha3725&style=for-the-badge&color=0f2a4a&label=Views" alt="Profile views" />
 
 </div>
 
@@ -70,4 +70,10 @@ Outside of work, I design and ship my own products end to end, across full-stack
 
 ## Work with me
 
-I'm open to full-time roles in full-stack web development and applied AI/ML. If you're hiring, or have something worth building, reach out through [email](mailto:you@example.com), [LinkedIn](https://www.linkedin.com/in/imantha-sandirigama-6554aa290/), or my [portfolio](https://imanthasandirigama.me).
+<a href="mailto:you@example.com"><img src="./assets/contact-card.svg" width="100%" alt="Open to work. Let's build something that holds up. Email me." /></a>
+
+<div align="center">
+
+[Email](mailto:you@example.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/imantha-sandirigama-6554aa290/) &nbsp;|&nbsp; [Portfolio](https://imanthasandirigama.me)
+
+</div>
