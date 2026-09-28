@@ -70,7 +70,7 @@ Outside of work, I design and ship my own products end to end, across full-stack
 
 ## Work with me
 
-<a href="mailto:you@example.com"><img src="./assets/contact-card.svg" width="100%" alt="Open to work. Let's build something that holds up. Email me." /></a>
+<a href="mailto:imanthasandirigama23@gmail.com"><img src="./assets/contact-card.svg" width="100%" alt="Open to work. Let's build something that holds up. Email me." /></a>
 
 <div align="center">
 
