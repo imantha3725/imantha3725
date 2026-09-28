@@ -6,7 +6,7 @@
 
 <a href="https://imanthasandirigama.me"><img src="./assets/btn-portfolio.svg" height="44" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/imantha-sandirigama-6554aa290/"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:you@example.com"><img src="./assets/btn-email.svg" height="44" alt="Email" /></a>&nbsp;
+<a href="mailto:imanthasandirigama23@gmail.com"><img src="./assets/btn-email.svg" height="44" alt="Email" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=imantha3725&style=for-the-badge&color=0f2a4a&label=Views" alt="Profile views" />
 
 </div>
@@ -74,6 +74,6 @@ Outside of work, I design and ship my own products end to end, across full-stack
 
 <div align="center">
 
-[Email](mailto:you@example.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/imantha-sandirigama-6554aa290/) &nbsp;|&nbsp; [Portfolio](https://imanthasandirigama.me)
+[Email](mailto:imanthasandirigama23@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/imantha-sandirigama-6554aa290/) &nbsp;|&nbsp; [Portfolio](https://imanthasandirigama.me)
 
 </div>
