@@ -27,12 +27,9 @@ Outside of work, I design and ship my own products end to end, across full-stack
 
 ## Now
 
-| | |
-|---|---|
-| **Working as** | Software Engineer Intern: Laravel, React, PostgreSQL |
-| **Building** | A VPN app, Forma (AI-generated business websites), and Travio (AI travel planner) |
-| **Exploring** | Go and Python, through small experiments and side projects |
-| **Status** | Open to full-time work |
+<img src="./assets/now.svg" width="100%" alt="Currently: Software Engineer Intern working with Laravel, React and PostgreSQL. Building a VPN app, Forma and Travio. Exploring Go and Python. Open to work." />
+
+**Open to:** full-time software engineering roles, and freelance web and software projects.
 
 <br/>
 
@@ -40,7 +37,7 @@ Outside of work, I design and ship my own products end to end, across full-stack
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **VPN App** <br/> ![In progress](https://img.shields.io/badge/In_progress-ff6b35?style=flat-square) | Desktop VPN application, currently under active development | `Go` `Python` | Release coming soon |
+| **VPN App** <br/> ![In progress](https://img.shields.io/badge/In_progress-1f6feb?style=flat-square) | Desktop VPN application, currently under active development | `Go` `Python` | Release coming soon |
 | **Travio** | AI-driven travel planner with smart itineraries, an AR explorer, and a memories diary | `React Native` `Expo` `Supabase` | [Latest release](https://github.com/imantha3725/Travio/releases/latest) |
 | **Traveller** | Android travel companion app | `Kotlin` | [Repo](https://github.com/imantha3725/Traveller) |
 | **Clinic Management** | Full-featured clinic management system | `JavaScript` `React` | [Repo](https://github.com/imantha3725/clinic-management-web-app) |
@@ -53,61 +50,21 @@ Outside of work, I design and ship my own products end to end, across full-stack
 
 ## Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-0b0b10?style=flat-square&logo=python&logoColor=ff6b35)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b0b10?style=flat-square&logo=javascript&logoColor=ff6b35)
-![TypeScript](https://img.shields.io/badge/TypeScript-0b0b10?style=flat-square&logo=typescript&logoColor=ff6b35)
-![PHP](https://img.shields.io/badge/PHP-0b0b10?style=flat-square&logo=php&logoColor=ff6b35)
-![Java](https://img.shields.io/badge/Java-0b0b10?style=flat-square&logo=openjdk&logoColor=ff6b35)
-![Kotlin](https://img.shields.io/badge/Kotlin-0b0b10?style=flat-square&logo=kotlin&logoColor=ff6b35)
-![C#](https://img.shields.io/badge/C%23-0b0b10?style=flat-square&logo=c-sharp&logoColor=ff6b35)
+**Daily drivers** (what I use at work every day)
 
-**Frontend and Mobile**
-![React](https://img.shields.io/badge/React-0b0b10?style=flat-square&logo=react&logoColor=ff6b35)
-![React Native](https://img.shields.io/badge/React_Native-0b0b10?style=flat-square&logo=react&logoColor=ff6b35)
-![Next.js](https://img.shields.io/badge/Next.js-0b0b10?style=flat-square&logo=next.js&logoColor=ff6b35)
-![Expo](https://img.shields.io/badge/Expo-0b0b10?style=flat-square&logo=expo&logoColor=ff6b35)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0b0b10?style=flat-square&logo=tailwind-css&logoColor=ff6b35)
-
-**Backend**
-![Laravel](https://img.shields.io/badge/Laravel-0b0b10?style=flat-square&logo=laravel&logoColor=ff6b35)
-![Node.js](https://img.shields.io/badge/Node.js-0b0b10?style=flat-square&logo=node.js&logoColor=ff6b35)
-![Express.js](https://img.shields.io/badge/Express.js-0b0b10?style=flat-square&logo=express&logoColor=ff6b35)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0b0b10?style=flat-square&logo=spring-boot&logoColor=ff6b35)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-0b0b10?style=flat-square&logo=pytorch&logoColor=ff6b35)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0b0b10?style=flat-square&logo=tensorflow&logoColor=ff6b35)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0b0b10?style=flat-square&logo=scikit-learn&logoColor=ff6b35)
-
-**Databases and Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b0b10?style=flat-square&logo=postgresql&logoColor=ff6b35)
-![MySQL](https://img.shields.io/badge/MySQL-0b0b10?style=flat-square&logo=mysql&logoColor=ff6b35)
-![MongoDB](https://img.shields.io/badge/MongoDB-0b0b10?style=flat-square&logo=mongodb&logoColor=ff6b35)
-![Supabase](https://img.shields.io/badge/Supabase-0b0b10?style=flat-square&logo=supabase&logoColor=ff6b35)
-![Firebase](https://img.shields.io/badge/Firebase-0b0b10?style=flat-square&logo=firebase&logoColor=ff6b35)
-![AWS](https://img.shields.io/badge/AWS-0b0b10?style=flat-square&logo=amazon-aws&logoColor=ff6b35)
-![Docker](https://img.shields.io/badge/Docker-0b0b10?style=flat-square&logo=docker&logoColor=ff6b35)
-
-**Design**
-![Figma](https://img.shields.io/badge/Figma-0b0b10?style=flat-square&logo=figma&logoColor=ff6b35)
-![Photoshop](https://img.shields.io/badge/Photoshop-0b0b10?style=flat-square&logo=adobe-photoshop&logoColor=ff6b35)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0b0b10?style=flat-square&logo=adobepremierepro&logoColor=ff6b35)
-
-**Currently exploring**
-![Go](https://img.shields.io/badge/Go-0b0b10?style=flat-square&logo=go&logoColor=ff6b35)
-![Python](https://img.shields.io/badge/Python-0b0b10?style=flat-square&logo=python&logoColor=ff6b35)
+![Laravel](https://img.shields.io/badge/Laravel-1f6feb?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/React-1f6feb?style=for-the-badge&logo=react&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f6feb?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imantha3725&show_icons=true&include_all_commits=true&count_private=true&bg_color=0b0b10&border_color=24242f&title_color=ff6b35&icon_color=ff6b35&text_color=c9c9d1&hide_rank=false" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imantha3725&layout=compact&bg_color=0b0b10&border_color=24242f&title_color=ff6b35&text_color=c9c9d1&langs_count=8" height="165" alt="Top languages"/>
-
-</div>
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0f2a4a?style=for-the-badge&logo=python&logoColor=58a6ff) ![JavaScript](https://img.shields.io/badge/JavaScript-0f2a4a?style=for-the-badge&logo=javascript&logoColor=58a6ff) ![TypeScript](https://img.shields.io/badge/TypeScript-0f2a4a?style=for-the-badge&logo=typescript&logoColor=58a6ff) ![PHP](https://img.shields.io/badge/PHP-0f2a4a?style=for-the-badge&logo=php&logoColor=58a6ff) ![Java](https://img.shields.io/badge/Java-0f2a4a?style=for-the-badge&logo=openjdk&logoColor=58a6ff) ![Kotlin](https://img.shields.io/badge/Kotlin-0f2a4a?style=for-the-badge&logo=kotlin&logoColor=58a6ff) ![C#](https://img.shields.io/badge/C%23-0f2a4a?style=for-the-badge&logo=dotnet&logoColor=58a6ff) |
+| **Frontend and mobile** | ![React](https://img.shields.io/badge/React-0f2a4a?style=for-the-badge&logo=react&logoColor=58a6ff) ![React Native](https://img.shields.io/badge/React_Native-0f2a4a?style=for-the-badge&logo=react&logoColor=58a6ff) ![Next.js](https://img.shields.io/badge/Next.js-0f2a4a?style=for-the-badge&logo=nextdotjs&logoColor=58a6ff) ![Expo](https://img.shields.io/badge/Expo-0f2a4a?style=for-the-badge&logo=expo&logoColor=58a6ff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f2a4a?style=for-the-badge&logo=tailwindcss&logoColor=58a6ff) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-0f2a4a?style=for-the-badge&logo=laravel&logoColor=58a6ff) ![Node.js](https://img.shields.io/badge/Node.js-0f2a4a?style=for-the-badge&logo=nodedotjs&logoColor=58a6ff) ![Express.js](https://img.shields.io/badge/Express.js-0f2a4a?style=for-the-badge&logo=express&logoColor=58a6ff) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f2a4a?style=for-the-badge&logo=springboot&logoColor=58a6ff) |
+| **AI and ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-0f2a4a?style=for-the-badge&logo=pytorch&logoColor=58a6ff) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0f2a4a?style=for-the-badge&logo=tensorflow&logoColor=58a6ff) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f2a4a?style=for-the-badge&logo=scikitlearn&logoColor=58a6ff) |
+| **Databases and cloud** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f2a4a?style=for-the-badge&logo=postgresql&logoColor=58a6ff) ![MySQL](https://img.shields.io/badge/MySQL-0f2a4a?style=for-the-badge&logo=mysql&logoColor=58a6ff) ![MongoDB](https://img.shields.io/badge/MongoDB-0f2a4a?style=for-the-badge&logo=mongodb&logoColor=58a6ff) ![Supabase](https://img.shields.io/badge/Supabase-0f2a4a?style=for-the-badge&logo=supabase&logoColor=58a6ff) ![Firebase](https://img.shields.io/badge/Firebase-0f2a4a?style=for-the-badge&logo=firebase&logoColor=58a6ff) ![AWS](https://img.shields.io/badge/AWS-0f2a4a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzU4YTZmZiIgZD0iTTYuNSAxOWE0LjUgNC41IDAgMCAxLS42LTguOTZBNiA2IDAgMCAxIDE3LjQgOC42IDQuOCA0LjggMCAwIDEgMTcuNSAxOXoiLz48L3N2Zz4%3D&logoColor=58a6ff) ![Docker](https://img.shields.io/badge/Docker-0f2a4a?style=for-the-badge&logo=docker&logoColor=58a6ff) |
+| **Design and video** | ![Figma](https://img.shields.io/badge/Figma-0f2a4a?style=for-the-badge&logo=figma&logoColor=58a6ff) ![Photoshop](https://img.shields.io/badge/Photoshop-0f2a4a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIxLjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzU4YTZmZiIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHRleHQgeD0iMTIiIHk9IjE2LjMiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSI3MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM1OGE2ZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiI%2BUHM8L3RleHQ%2BPC9zdmc%2B&logoColor=58a6ff) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-0f2a4a?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMS41IiB5PSIxLjUiIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgcng9IjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzU4YTZmZiIgc3Ryb2tlLXdpZHRoPSIyIi8%2BPHRleHQgeD0iMTIiIHk9IjE2LjMiIGZvbnQtc2l6ZT0iMTEiIGZvbnQtd2VpZ2h0PSI3MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiM1OGE2ZmYiIGZvbnQtZmFtaWx5PSJBcmlhbCxIZWx2ZXRpY2Esc2Fucy1zZXJpZiI%2BUHI8L3RleHQ%2BPC9zdmc%2B&logoColor=58a6ff) |
+| **Exploring now** | ![Go](https://img.shields.io/badge/Go-0f2a4a?style=for-the-badge&logo=go&logoColor=58a6ff) ![Python](https://img.shields.io/badge/Python-0f2a4a?style=for-the-badge&logo=python&logoColor=58a6ff) |
 
 <br/>
 

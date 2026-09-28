@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Currently: Software Engineer Intern working with Laravel, React and PostgreSQL. Building a VPN app, Forma and Travio. Exploring Go and Python. Open to work.">
+  <defs>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#58a6ff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="l0"><rect x="24" y="88" width="0" height="36"><animate attributeName="width" values="0;0;700;700;0" keyTimes="0;0.0375;0.1375;0.9062;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l1"><rect x="24" y="132" width="0" height="36"><animate attributeName="width" values="0;0;700;700;0" keyTimes="0;0.1625;0.2625;0.9062;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l2"><rect x="24" y="176" width="0" height="36"><animate attributeName="width" values="0;0;700;700;0" keyTimes="0;0.2875;0.3875;0.9062;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l3"><rect x="24" y="220" width="0" height="36"><animate attributeName="width" values="0;0;700;700;0" keyTimes="0;0.4125;0.5125;0.9062;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l4"><rect x="24" y="264" width="0" height="36"><animate attributeName="width" values="0;0;700;700;0" keyTimes="0;0.5375;0.6375;0.9062;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="b0"><rect x="800" y="140" width="370" height="6" rx="3"/></clipPath>
+    <clipPath id="b1"><rect x="800" y="230" width="370" height="6" rx="3"/></clipPath>
+    <clipPath id="b2"><rect x="800" y="320" width="370" height="6" rx="3"/></clipPath>
+  </defs>
+
+  <!-- terminal panel -->
+  <path d="M0.5 44 V14.5 a14 14 0 0 1 14 -14 H725.5 a14 14 0 0 1 14 14 V44 Z" fill="#111a27"/>
+  <rect x="0.5" y="0.5" width="739" height="359" rx="14" fill="none" stroke="#1f2a3a"/>
+  <rect x="0.5" y="44" width="739" height="315" fill="#0d1117" opacity="0"/>
+  <line x1="0.5" y1="44" x2="739.5" y2="44" stroke="#1f2a3a"/>
+  <circle cx="28" cy="22" r="6" fill="#2b3a52"/><circle cx="48" cy="22" r="6" fill="#2b3a52"/><circle cx="68" cy="22" r="6" fill="#2b3a52"/>
+  <text x="370" y="27" font-family="'SF Mono','Cascadia Code',Consolas,Menlo,'Liberation Mono',monospace" font-size="13" fill="#6b7b90" text-anchor="middle">now</text>
+  <g clip-path="url(#l0)" font-family="'SF Mono','Cascadia Code',Consolas,Menlo,'Liberation Mono',monospace" font-size="19"><text x="36" y="112" fill="#3b82f6">$</text><text x="60" y="112" fill="#79b8ff">role</text><text x="190" y="112" fill="#e6edf3">Software Engineer Intern</text></g>
+  <g clip-path="url(#l1)" font-family="'SF Mono','Cascadia Code',Consolas,Menlo,'Liberation Mono',monospace" font-size="19"><text x="36" y="156" fill="#3b82f6">$</text><text x="60" y="156" fill="#79b8ff">stack</text><text x="190" y="156" fill="#e6edf3">Laravel, React, PostgreSQL</text></g>
+  <g clip-path="url(#l2)" font-family="'SF Mono','Cascadia Code',Consolas,Menlo,'Liberation Mono',monospace" font-size="19"><text x="36" y="200" fill="#3b82f6">$</text><text x="60" y="200" fill="#79b8ff">building</text><text x="190" y="200" fill="#e6edf3">VPN app, Forma, Travio</text></g>
+  <g clip-path="url(#l3)" font-family="'SF Mono','Cascadia Code',Consolas,Menlo,'Liberation Mono',monospace" font-size="19"><text x="36" y="244" fill="#3b82f6">$</text><text x="60" y="244" fill="#79b8ff">exploring</text><text x="190" y="244" fill="#e6edf3">Go, Python</text></g>
+  <g clip-path="url(#l4)" font-family="'SF Mono','Cascadia Code',Consolas,Menlo,'Liberation Mono',monospace" font-size="19"><text x="36" y="288" fill="#3b82f6">$</text><text x="60" y="288" fill="#79b8ff">status</text><text x="190" y="288" fill="#e6edf3">Open to work</text><circle cx="352" cy="282" r="5" fill="#3fb950"/></g>
+  <g font-family="'SF Mono','Cascadia Code',Consolas,Menlo,'Liberation Mono',monospace" font-size="19" opacity="0"><animate attributeName="opacity" calcMode="discrete" values="0;1;0" keyTimes="0;0.6500;0.9062" dur="16.0s" repeatCount="indefinite"/><text x="36" y="332" fill="#3b82f6">$</text><rect x="60" y="316" width="11" height="21" fill="#58a6ff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect></g>
+
+  <!-- building panel -->
+  <rect x="770.5" y="0.5" width="429" height="359" rx="14" fill="#0d1117" stroke="#1f2a3a"/>
+  <g font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif">
+    <text x="800" y="42" font-size="16" font-weight="600" fill="#8b98a9">Building right now</text>
+    <line x1="800" y1="58" x2="1170" y2="58" stroke="#1f2a3a"/>
+    <text x="800" y="100" font-size="19" font-weight="600" fill="#e6edf3">VPN app</text><rect x="1078" y="83" width="92" height="24" rx="12" fill="#0f2a4a"/><text x="1124.0" y="100" font-size="12" fill="#79b8ff" text-anchor="middle">In progress</text><text x="800" y="124" font-size="13" fill="#8b98a9">Windows app in development</text><rect x="800" y="140" width="370" height="6" rx="3" fill="#14243b"/><g clip-path="url(#b0)"><rect x="660" y="140" width="140" height="6" fill="url(#sh)"><animate attributeName="x" values="660;1170" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></rect></g>
+    <text x="800" y="190" font-size="19" font-weight="600" fill="#e6edf3">Forma</text><rect x="1100" y="173" width="70" height="24" rx="12" fill="#0f2a4a"/><text x="1135.0" y="190" font-size="12" fill="#79b8ff" text-anchor="middle">Ongoing</text><text x="800" y="214" font-size="13" fill="#8b98a9">AI-generated business websites</text><rect x="800" y="230" width="370" height="6" rx="3" fill="#14243b"/><g clip-path="url(#b1)"><rect x="660" y="230" width="140" height="6" fill="url(#sh)"><animate attributeName="x" values="660;1170" dur="2.4s" begin="0.5s" repeatCount="indefinite"/></rect></g>
+    <text x="800" y="280" font-size="19" font-weight="600" fill="#e6edf3">Travio</text><rect x="1100" y="263" width="70" height="24" rx="12" fill="#0f2a4a"/><text x="1135.0" y="280" font-size="12" fill="#79b8ff" text-anchor="middle">Ongoing</text><text x="800" y="304" font-size="13" fill="#8b98a9">AI travel planner</text><rect x="800" y="320" width="370" height="6" rx="3" fill="#14243b"/><g clip-path="url(#b2)"><rect x="660" y="320" width="140" height="6" fill="url(#sh)"><animate attributeName="x" values="660;1170" dur="2.4s" begin="1.0s" repeatCount="indefinite"/></rect></g>
+  </g>
+</svg>
